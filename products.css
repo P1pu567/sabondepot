@@ -1,0 +1,289 @@
+.products-css-bgimage {
+    background-size: cover;
+    min-height: 75vh;
+    background-image: url(https://scontent.fmnl11-1.fna.fbcdn.net/v/t39.30808-6/309910412_461236689355447_549936615200108441_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeEJQvDuJozWlQcEOLn0WJ36D5dXqwAi6BYPl1erACLoFkgsh0nwhUKe47k_Tgv9kBk35ny19tiIWRu-VbHuj0wM&_nc_ohc=n2qP2xAOmpQAX9BKfN2&_nc_ht=scontent.fmnl11-1.fna&oh=00_AfCW3IhNkQAPpfe9kaajBy855OFqixKkWr7rkkwrVEsxQw&oe=65C68AA2); 
+}
+.products-css-intro {
+    font-family: serif;
+    text-shadow: 2px 2px #890000;
+    font-size: 100px;
+    color: rgb(132, 255, 0);
+}
+.products-css-intro1 {
+    margin-top: 50px;
+    font-family: serif;
+    text-shadow: 2px 2px #26ff3c;
+    font-size: 80px;
+    color: black;
+    margin-bottom: 20px;
+}
+.toriig {
+    margin-right: 50px;
+    border-radius: 20px;
+    width: 450px;
+    height: 420px;
+    margin-bottom: 40px;
+    box-shadow: 0px 0px 10px 5px rgb(255, 255, 255),
+                0px 0px 10px 5px rgb(87, 255, 129);
+    border: 10px solid transparent;
+    border-image: url(http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcT6StGfXz8cbmENL4-qQSdyZDCVulD7d20yDH1f4jxSsRTl-8XoC44luDHV4FHpyDLR-gFYpC2-Ocs1uWNJFb4) 30 stretch;
+
+}
+.matsushima {
+    border-radius: 20px;
+    width: 450px;
+    height: 420px;
+    margin-left: 30px;
+    margin-bottom: 40px;
+    box-shadow: 0px 0px 10px 5px rgb(255, 255, 255),
+    0px 0px 10px 5px rgb(87, 255, 129);
+    border: 10px solid transparent;
+    border-image: url(http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcT6StGfXz8cbmENL4-qQSdyZDCVulD7d20yDH1f4jxSsRTl-8XoC44luDHV4FHpyDLR-gFYpC2-Ocs1uWNJFb4) 30 stretch;
+}
+.amanohashidate {
+    border-radius: 20px;
+    width: 450px;
+    height: 420px;
+    margin-left: 70px;
+    margin-bottom: 40px;
+    box-shadow: 0px 0px 0px 2px rgb(255, 255, 255),
+    0px 0px 10px 5px rgb(87, 255, 129);
+    border: 10px solid transparent;
+    border-image: url(http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcT6StGfXz8cbmENL4-qQSdyZDCVulD7d20yDH1f4jxSsRTl-8XoC44luDHV4FHpyDLR-gFYpC2-Ocs1uWNJFb4) 30 stretch;
+}
+.products-css-intro-row1-1 {
+    font-family: 'Times New Roman', Times, serif, serif;
+    font-size: 1.4rem;
+    text-align: justify;
+    margin-left: 100px;
+    margin-top: 10px;
+    width: 500px;
+    float: left;
+    margin-bottom: 50px;
+}
+.products-css-intro-row1-2 {
+    font-family: 'Times New Roman', Times, serif, serif;
+    font-size: 1.4rem;
+    text-align: justify;
+    margin-left: 40px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    float: left;
+}
+.products-css-intro-row1-3 {
+    font-family: 'Times New Roman', Times, serif, serif;
+    font-size: 1.4rem;
+    text-align: justify;
+    margin-left: 250px;
+    margin-top: 10px;
+    float: left;
+    margin-bottom: 50px;
+}
+.products-css-intro-row2-1 {
+    font-family: 'Times New Roman', Times, serif, serif;
+    font-size: 1.4rem;
+    text-align: justify;
+    margin-left: 100px;
+    width: 500px;
+    float: left;
+    margin-bottom: 50px;
+}
+.products-css-intro-row2-2 {
+    font-family: 'Times New Roman', Times, serif, serif;
+    font-size: 1.4rem;
+    text-align: justify;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    float: left;
+}
+.products-css-intro-row2-3 {
+    font-family: 'Times New Roman', Times, serif, serif;
+    font-size: 1.4rem;
+    text-align: justify;
+    margin-left: 180px;
+    margin-top: 10px;
+    float: left;
+    margin-bottom: 50px;
+}
+.products-css-intro-row3-1 {
+    font-family: 'Times New Roman', Times, serif, serif;
+    font-size: 1.4rem;
+    text-align: justify;
+    margin-left: 130px;
+    width: 500px;
+    float: left;
+    margin-bottom: 50px;
+}
+.products-css-intro-row3-2 {
+    font-family: 'Times New Roman', Times, serif, serif;
+    font-size: 1.4rem;
+    text-align: justify;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    float: left;
+}
+.products-css-intro-row3-3 {
+    font-family: 'Times New Roman', Times, serif, serif;
+    font-size: 1.4rem;
+    text-align: justify;
+    margin-left: 380px;
+    margin-top: 10px;
+    float: left;
+    margin-bottom: 50px;
+}
+.products-css-intro-row4-1 {
+    font-family: 'Times New Roman', Times, serif, serif;
+    font-size: 1.4rem;
+    text-align: justify;
+    margin-left: 130px;
+    width: 500px;
+    float: left;
+    margin-bottom: 50px;
+}
+.products-css-intro-row4-2 {
+    font-family: 'Times New Roman', Times, serif, serif;
+    font-size: 1.4rem;
+    text-align: justify;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    float: left;
+}
+.products-css-intro-row4-3 {
+    font-family: 'Times New Roman', Times, serif, serif;
+    font-size: 1.4rem;
+    text-align: justify;
+    margin-left: 380px;
+    margin-top: 10px;
+    float: left;
+    margin-bottom: 50px;
+}
+.products-css-intro-row5-1 {
+    font-family: 'Times New Roman', Times, serif, serif;
+    font-size: 1.4rem;
+    text-align: justify;
+    margin-left: 130px;
+    width: 500px;
+    float: left;
+    margin-bottom: 50px;
+}
+.products-css-intro-row5-2 {
+    font-family: 'Times New Roman', Times, serif, serif;
+    font-size: 1.4rem;
+    text-align: justify;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    float: left;
+}
+.products-css-intro-row5-3 {
+    font-family: 'Times New Roman', Times, serif, serif;
+    font-size: 1.4rem;
+    text-align: justify;
+    margin-left: 330px;
+    margin-top: 10px;
+    float: left;
+    margin-bottom: 50px;
+}
+.products-css-intro-row6-1 {
+    font-family: 'Times New Roman', Times, serif, serif;
+    font-size: 1.4rem;
+    text-align: justify;
+    margin-left: 80px;
+    width: 500px;
+    float: left;
+    margin-bottom: 50px;
+}
+.products-css-intro-row6-2 {
+    font-family: 'Times New Roman', Times, serif, serif;
+    font-size: 1.4rem;
+    text-align: justify;
+    margin-left: 80px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    float: left;
+}
+.products-css-intro-row6-3 {
+    font-family: 'Times New Roman', Times, serif, serif;
+    font-size: 1.4rem;
+    text-align: justify;
+    margin-left: 320px;
+    margin-top: 10px;
+    float: left;
+    margin-bottom: 50px;
+}
+.products-css-table1 {
+    font-size: 23px;
+    text-align: center;
+    border: 2px solid black;
+    border-color: black;
+    width: 1000px;
+    height: 200px;
+    margin-top: 50px;
+    font-family: serif;
+    margin-bottom: 35px;
+}
+.products-css-line1 {
+    background-color: rgb(0, 255, 34);
+    text-align: center;
+    border: 2px solid black;;
+}
+.products-css-tr1 {
+    text-align: center;
+    background-color: rgb(160, 210, 161);
+    border: 2px solid black;
+}
+.products-css-td1 {
+    background-color: rgb(127, 211, 122);
+    text-align: center;
+    border: 2px solid black;
+}
+.products-css-td2 {
+    background-color: rgb(237, 255, 212);
+    text-align: center;
+    border: 2px solid black;
+}
+.products-css-td3 {
+    background-color: rgb(166, 255, 111);
+    text-align: center;
+    border: 2px solid black;
+}
+.products-css-td4 {
+    background-color: rgb(121, 255, 114);
+    text-align: center;
+    border: 2px solid black;
+}
+td:hover {
+    background-color: rgb(13, 58, 0);
+    color: white;
+}
+h3:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(rgb(30, 255, 0), rgb(234, 0, 255));;
+}
+.products-css-intro-footer {
+    padding-top: 3%;
+    padding-bottom: 3%;
+    top: 660px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(2, 114, 0);
+    color: white;
+    text-align: center;
+ }
+.products-css-intro-footer1 {
+    font-family: 'Times New Roman', Times, serif, serif;
+    font-size: 1.4rem;
+    text-align: justify;
+    margin-top: 18px;
+}
+@media (max-width: 768px) {
+    .products-css-bgimage {
+        min-height: 50vh;
+
+    }
+}

@@ -1,0 +1,36 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background-color: #378b9e;
+    color: #116a8e;
+    padding: 10px;
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background-color: #378b9e;
+    color: #116a8e;
+    padding: 10px;
+    text-align: center;
+}
+
+body {
+    background-image: url('pictures/One.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+}
+
+#footer {
+    margin-top: 100px;
+}
+
+h1{
+    text-align: center;
+}
